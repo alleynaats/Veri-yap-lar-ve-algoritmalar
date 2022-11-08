@@ -1,10 +1,10 @@
 Patika.dev1
 insertion sort projesi 
 1. [22,27,16,2,18,6] dizisini insertion sorta göre aşamalarını yazınız.
-  [22,27,16,2,18,6] n
-  [2,27,16,22,18,6] n-1
-  [2,6,16,22,18,27] n-2
-  [2,6,16,18,22,27] n-3
+  1.[22,27,16,2,18,6] n
+  2.[2,27,16,22,18,6] n-1
+  3.[2,6,16,22,18,27] n-2
+  4.[2,6,16,18,22,27] n-3
 2. Big O'Notation Gösterimi = O(n*2) olur.
   3.18 in hangi case'e girdiğini belirtiniz
  Average case: Aradığımız sayının ortada olması
